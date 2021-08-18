@@ -7,11 +7,12 @@ import { App } from "./App";
 
 // HTML vs JSX
 /*
-    HTML                | JSX
-    class               | className
-    for                 | htmlFor
-    inline are strings  | inline styles are objects, numbers = px.
-    <!-- comments -->   | { \/* comments*\/ } 
+    HTML                    | JSX
+    class                   | className
+    for                     | htmlFor
+    inline are strings      | inline styles are objects, numbers = px.
+    <!-- comments -->       | { \/* comments*\/ } 
+    attributes kebab-cased  | props camelCased
 */
 // function Heading(props: any) {
 //     return <h1 className="head" style={headStyle}>{props.children}</h1>;

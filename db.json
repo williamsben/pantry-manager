@@ -1,0 +1,25 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Carrot",
+      "quantity": 1,
+      "reorderPoint": 0,
+      "type": "Vegetable"
+    },
+    {
+      "id": 3,
+      "name": "Blueberries",
+      "quantity": 12,
+      "reorderPoint": 0,
+      "type": "Fruit"
+    },
+    {
+      "id": 4,
+      "name": "Strawberry",
+      "quantity": 4,
+      "reorderPoint": 0,
+      "type": "Fruit"
+    }
+  ]
+}
